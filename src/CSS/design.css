@@ -1,0 +1,233 @@
+.header-logo img {
+  display: block;
+  margin: 23px auto 0;
+  padding: 15px 0;
+}
+.login-signup-comm-wrap {
+  max-width: 350px;
+  margin: 0 auto;
+  float: none;
+  padding: 20px;
+}
+.R13_42 {
+  font-family: Roboto !important;
+  font-size: 13px;
+  color: #424242;
+  line-height: 18px;
+}
+.M18_42 {
+  font-family: Roboto;
+  font-size: 18px !important;
+  color: #424242;
+  line-height: 25px;
+  margin-bottom: 20px;
+}
+.M14_42 {
+  font-family: Roboto;
+  font-size: 14px;
+  color: #424242;
+  line-height: 20px;
+}
+.login-signup-comm-wrap .form-input .input-box {
+  width: 100%;
+  background-color: #fff;
+  height: 30px;
+  border: none;
+  border-bottom: 1px solid #a6a6a6;
+  margin: 5px 0;
+  line-height: 30px;
+  border-radius: 0;
+  outline: none;
+}
+.R14_42 {
+  font-family: Roboto;
+  font-size: 14px !important;
+  color: #424242;
+  line-height: 20px;
+}
+
+.login-signup-comm-wrap .comm-btn {
+  background-color: #ff7043;
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 10px 0;
+  margin: 35px 0 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.login-signup-comm-wrap .div-or-text {
+  text-align: center;
+}
+.login-signup-comm-wrap .div-or-text-divider {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #e0e0e0;
+}
+.login-signup-comm-wrap .divider-text {
+  position: relative;
+  top: 25px;
+  display: inline-block;
+  background: #fff;
+  padding: 0 5px;
+}
+
+.M15_42 {
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 700;
+  color: #424242;
+  line-height: 21px;
+}
+
+.login-signup-comm-wrap .socialicons-login {
+  overflow: hidden;
+}
+
+.login-signup-comm-wrap .fb-login {
+  margin-right: 4%;
+}
+
+.login-signup-comm-wrap .social-login {
+  border: 1px solid #e0e0e0;
+  border-radius: 3px;
+  cursor: pointer;
+  text-align: left;
+  width: 100%;
+  padding: 9px 5px;
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+
+.login-signup-comm-wrap .imgspan {
+  padding-right: 11px;
+  margin-left: 59px;
+}
+.B14_white {
+  font-family: Roboto !important;
+  font-size: 14px !important;
+  color: #fff !important;
+  line-height: 20px;
+}
+.login-signup-comm-wrap .social-login img {
+    width: 22px;
+    height: 22px;
+    vertical-align: middle;
+}
+
+.R13_42 {
+    font-family: Roboto!important;
+    font-size: 15px;
+    color: #424242;
+    line-height: 18px;
+}
+.login-signup-comm-wrap .reghere {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.login-signup-comm-wrap .divider-text {
+    position: relative;
+    top: 11px;
+    display: inline-block;
+    background: #fff;
+    padding: 0 5px;
+}
+
+.M13_link {
+    font-family: Roboto;
+    font-size: 13px;
+    color: #2979ff;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.login-signup-comm-wrap .agree-text {
+    margin-top: 18px;
+    border-top: 1px solid #e0e0e0;
+    padding: 15px 0 0;
+}
+
+.R12_42 {
+    font-family: Roboto!important;
+    font-size: 12px;
+    color: #424242;
+    line-height: 17px;
+}
+.login-signup-comm-wrap .form-input .input-box {
+    width: 100%;
+    background-color: #fff;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid #a6a6a6;
+    margin: 5px 0;
+    line-height: 30px;
+    border-radius: 0;
+}
+
+.R14_42 {
+    font-family: RobotoLR;
+    font-size: 14px !important;
+    color: #424242;
+    line-height: 20px;
+}
+.M14_42 {
+    font-family: RobotoMB;
+    font-size: 14px;
+    color: #424242;
+    line-height: 20px;
+}
+.login-signup-comm-wrap .form-input {
+    clear: both;
+    margin-bottom: 10px;
+    position: relative;
+}
+.M14_42 {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #424242;
+    line-height: 20px;
+}
+
+.login-signup-comm-wrap .div-mobile-prefix .mobile-prefix {
+    width: 15%;
+    margin-right: 3%;
+    float: left;
+    border-bottom: 1px solid #a6a6a6;
+    height: 35px;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+.R14_42 {
+    font-family: Roboto;
+    font-size: 16px !important;
+    color: #424242;
+    font-weight: 500;
+    line-height: 20px;
+}
+.login-signup-comm-wrap .div-mobile-prefix .input-box {
+    width: 82%;
+    float: left;
+}
+
+.R12_42 {
+    font-family: Roboto!important;
+    font-size: 12px;
+    color: #424242;
+    line-height: 17px;
+}
+
+.login-signup-comm-wrap .eye-icon {
+    position: absolute;
+    top: 22px;
+    float: right;
+    right: 1px;
+    color: #9e9e9e;
+    padding: 3px 12px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.fa-solid, .fas {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 500 !important;
+    border-bottom: 1px solid #9e9e9e !important;
+    padding-bottom: 13px;
+}
